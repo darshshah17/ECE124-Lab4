@@ -1,3 +1,5 @@
+-- Section 206, Team 18 - Darsh Shah, Krish Modi
+
 library ieee;
 use ieee.std_logic_1164.all;
 use ieee.numeric_std.all;
